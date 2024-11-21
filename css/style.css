@@ -1,0 +1,2835 @@
+
+
+
+
+  /* All Common Files Start */
+
+
+  *{
+    margin: 0;
+    padding: 0;
+  }
+
+
+
+  a{
+    text-decoration: none;
+    display: inline-block;
+  }
+
+
+
+
+  ul,
+  ol{
+    list-style-type: none;
+  }
+
+
+
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  p{
+    margin: 0;
+    padding: 0;
+    line-height: 0.8;
+  }
+
+
+
+
+ .container{
+    width: 1300px;
+    margin: 0 auto;
+ }
+
+
+
+
+
+  /* All Common Files End */
+
+
+
+
+
+   /* First Header Part Start */
+
+
+
+
+
+
+   #FirstPart{
+    padding: 15px 0px;
+    background: #f5f5f5;
+   }
+
+
+
+   .FirstItemPart{
+    text-align: right;
+   }
+     
+
+
+   .FirstItem ul li{
+    display: inline-block;
+   }
+
+  
+
+   .FirstItem ul li  a{
+    font-family: Poppins, Helvetica, Tahoma, Arial, serif;
+    margin-right: -200px;
+    margin-left: 215px;
+    color:black ;
+    font-size: 14px;
+    font-weight: 400;
+    transition: .6s;
+   }
+
+
+  
+
+   .FirstItem  ul li a:hover{
+    color: #f5f5f5;
+   } 
+
+
+
+
+   /* First Header Part End */
+
+
+
+
+
+
+
+
+
+   /* Second Header Part Start */
+
+
+
+
+   #SecondPart{
+    background: #ffffff;
+   }
+
+
+
+   .SecondItemPart{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    display: flex;
+    justify-content: space-between;
+    }
+
+
+
+
+
+
+    .SecondLogo{
+    margin-left: -240px;
+    margin-top: -14px;
+    }
+
+
+    
+
+    .SecondLogo img:hover{
+    color: #424242;
+    }
+
+
+
+
+     
+   .SecondLogo img{
+    width: 30%;
+    }
+
+
+
+
+    
+   .SecondMenu{
+    padding-top: 20px;
+    padding-bottom: 10px;
+    text-align: center;
+    margin-top: -86px;
+    }
+     
+    
+
+
+      
+
+    .SecondMenu ul li{
+    display: inline-block;
+   }
+   
+
+
+
+
+
+   .SecondMenu span{
+    font-family: Poppins, Helvetica, Tahoma, Arial, serif;
+    font-size: 18px;
+    color: #f9a419;
+    margin-left: 10px;
+    margin-right: 10px;
+   }
+
+      
+
+
+    .SecondMenu ul li a{
+    font-family: Poppins, Helvetica, Tahoma, Arial, serif;
+    font-size: 18px;
+    color: black;
+    margin-left: 33px;
+    font-weight: 600;
+    line-height: 40px;
+    transition: .6s;
+    }
+
+
+
+
+    .SecondMenu ul li a:hover{
+    color: #339498;
+    }
+
+
+
+
+
+    .SecondIcon{
+    display: flex;
+    margin: -13px -255px;
+    gap: 28px;
+    }
+
+
+    
+
+   .SecondIcon h3{
+    font-family: Poppins, Helvetica, Tahoma, Arial, serif;
+    color: #424242;
+    }
+
+
+   
+
+
+
+   .SecondIcon h3:hover{
+    color: #30bdbd;
+    }
+
+
+
+
+
+      
+   .SecondIcon h2{
+    font-family: Poppins, Helvetica, Tahoma, Arial, serif;
+    color: #424242;
+    }
+
+
+
+
+
+   .SecondIcon h2:hover{
+    color: #000000;
+    }
+
+
+
+
+        
+   .SecondIcon i{
+    font-size: 20px;
+    transition: .6s;
+    }
+
+
+
+
+
+   /* Second Header Part End */
+
+
+
+
+
+
+
+
+
+   /* Third Header Part Start */
+
+    
+
+
+
+
+   #ThirdPart{
+    height: 792px;
+    background: url(../images/h1\ \(2\).jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    transition: .8s;
+   }
+
+
+    
+    /* #ThirdPart:hover{
+    background: #ffffff22;
+    } */
+
+
+
+
+
+
+   .ThirdPartTag{
+    position: relative;
+   }
+  
+  
+  
+  
+  
+   .ThirdPartTag a{
+    position: absolute;
+    font-family: Poppins, Helvetica, Tahoma, Arial, serif;
+    font-size: 27px;
+    background: #ffffff;
+    color: #D74C4F;
+    padding: 16px 43px;
+    font-weight: 600;
+    line-height: 25px;
+    right: -44px; 
+    margin-top: 368px;
+    }
+  
+
+
+
+
+
+
+
+   /* Third Header Part End */
+
+
+
+
+
+
+
+
+
+
+    /* Middle Header Part Start  */
+
+
+
+
+
+
+    #MiddlePart{
+    padding-top: 30px;
+    padding-bottom: 50px;
+    }
+
+
+
+
+
+    .MiddleItemPart{
+    display: flex;
+    justify-content: space-between;
+   }
+
+
+
+
+
+
+    .MiddleImgPart{
+    position: relative;
+    width: 66%;
+    margin-left: -235px;
+    }
+
+
+
+
+
+
+    .MiddleImgPart img{
+    width: 100%;
+    }
+
+
+
+    
+
+
+    .MiddleTagPart a{
+    position: absolute;
+    font-family: Poppins, Helvetica, Tahoma, Arial, serif;
+    font-size: 27px;
+    background: whitesmoke;
+    color: #D74C4A;
+    padding: 20px 50px;
+    font-weight: 600;
+    line-height: 25px;
+    margin-top: -233px;
+    margin-left: 311px;
+    }
+
+
+
+
+
+      
+    .MiddleImg{
+    position: relative;
+    width: 66%;
+    margin-right: -228px;
+    }
+
+
+
+
+
+    .MiddleImg img{
+    width: 100%;
+    }
+
+
+
+
+
+
+    .MiddleTag a{
+    position: absolute;
+    font-family: Poppins, Helvetica, Tahoma, Arial, serif;
+    font-size: 27px;
+    background: white;
+    color:#D74C4A;
+    padding: 20px 50px;
+    font-weight: 600;
+    line-height: 25px;
+    margin-top: -223px;
+    margin-left: 291px;
+    }
+
+
+
+
+
+
+    /* Middle Header Part End  */
+
+
+
+
+
+
+
+
+
+
+
+
+   /* Fourth Header Part Start */
+
+
+
+
+
+
+
+    #FourthPart{
+    padding-top: 30px;
+    padding-bottom: 140px;
+    background: #c5ae9c;
+    }
+
+
+     
+
+
+
+    .FourthText{
+    text-align: center;
+    }
+
+
+
+
+
+    .FourthText h3{
+    font-family: Poppins, Helvetica, Tahoma, Arial, serif;
+    font-size: 27px;
+    color: #000000;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    font-weight: 400;
+    }
+
+
+
+
+
+
+
+    .FourthText p{
+    font-family: Poppins, Helvetica, Tahoma, Arial, serif;
+    font-size: 13px;
+    color: #555555;
+    }
+
+
+
+
+
+
+
+    .FourthPartImg{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 60px;
+    }
+
+
+
+
+
+
+    .FourthImg{
+    width: 23%;
+    position: relative;
+   }
+  
+  
+  
+
+
+
+
+    .FourthImg img{
+    width: 100%;
+    display: block; 
+   }
+
+
+
+
+
+
+
+    .FourthBadge{
+    position: absolute;
+    height: 28px;
+    width: 47px;
+    background: #195786;
+    top: 8px;
+    left: 7px;
+   }
+
+  
+        
+
+
+
+    .BadgeItem{
+    position: absolute;
+    color: #ffff;
+    top: 43%; left: 52%;
+    transform: translate(-50%, -50%);
+    font-size: 20px;
+    font-weight: 600;
+    }
+
+
+
+
+
+
+    .FourthIcon{
+    position: absolute;
+    height: 40px;
+    width: 38px;
+    background: #ffffff;
+    top: 8px;
+    right: 12px;
+    }
+
+  
+        
+
+
+
+    .FourthIcon i{
+    position: absolute;
+    color: #000000;
+    top: 46%; left: 52%;
+    transform: translate(-50%, -50%);
+    font-size: 16px;
+    transition: .8s;
+   } 
+
+
+        
+
+
+
+    .FourthIcon i:hover {
+    color:#ffffff ;
+    background: #000000;
+   }     
+         
+
+
+
+
+   .FourthTextItem{
+    background:#ffffff; 
+    padding-top: 15px;
+    padding-bottom: 25px;
+   }
+ 
+ 
+      
+ 
+ 
+      
+    .FourthTextItem p{
+    padding-top: 5px;
+    margin-left: 100px; 
+    font-family: Poppins, Helvetica, Tahoma, Arial, serif;
+    font-size: 13px;
+    font-weight: 400;
+    color: #000000;
+    line-height: 15px;
+   }
+ 
+ 
+ 
+
+
+
+      
+   .FourthTextItem h3{
+    padding-top: 14px;
+    font-family: Poppins, Helvetica, Tahoma, Arial, serif;
+    font-size: 14px;
+    font-weight: 700;
+    color: #e95144;
+    line-height: 15px;
+    } 
+ 
+ 
+    
+
+
+
+
+
+    .FourthTextItem h3 span{
+    padding-right: 9px;
+    margin-left: 87px; 
+    font-family: Poppins, Helvetica, Tahoma, Arial, serif;
+    font-size: 12px;
+    font-weight: 600;
+    color: #555555;
+    line-height: 10px;
+    } 
+ 
+ 
+
+
+
+
+
+    .FourthTextNewItem{
+    background:#ffffff; 
+    padding-top: 15px;
+    padding-bottom: 25px;
+    }
+ 
+ 
+      
+ 
+
+ 
+      
+    .FourthTextNewItem p{
+    padding-top: 5px;
+    margin-left: 62px; 
+    font-family: Poppins, Helvetica, Tahoma, Arial, serif;
+    font-size: 13px;
+    font-weight: 400;
+    color: #000000;
+    line-height: 15px;
+    }
+ 
+ 
+ 
+      
+
+
+
+   .FourthTextNewItem h3{
+    padding-top: 14px;
+    font-family: Poppins, Helvetica, Tahoma, Arial, serif;
+    font-size: 14px;
+    font-weight: 700;
+    color: #e95144;
+    line-height: 15px;
+    } 
+ 
+ 
+    
+
+
+
+
+
+   .FourthTextNewItem h3 span{
+    padding-right: 9px;
+    margin-left: 87px; 
+    font-family: Poppins, Helvetica, Tahoma, Arial, serif;
+    font-size: 12px;
+    font-weight: 600;
+    color: #555555;
+    line-height: 10px;
+    } 
+ 
+ 
+
+
+
+
+
+    .FourthTextOldItem{
+    background:#ffffff; 
+    padding-top: 15px;
+    padding-bottom: 25px;
+    }
+ 
+ 
+      
+ 
+ 
+      
+    .FourthTextOldItem p{
+    padding-top: 5px;
+    margin-left: 90px; 
+    font-family: Poppins, Helvetica, Tahoma, Arial, serif;
+    font-size: 13px;
+    font-weight: 400;
+    color: #000000;
+    line-height: 15px;
+    }
+ 
+ 
+ 
+  
+
+
+
+    .FourthTextOldItem h3{
+    padding-top: 14px;
+    font-family: Poppins, Helvetica, Tahoma, Arial, serif;
+    font-size: 14px;
+    font-weight: 700;
+    color: #e95144;
+    line-height: 15px;
+    } 
+ 
+ 
+    
+
+
+
+    .FourthTextOldItem h3 span{
+    padding-right: 9px;
+    margin-left: 87px; 
+    font-family: Poppins, Helvetica, Tahoma, Arial, serif;
+    font-size: 12px;
+    font-weight: 600;
+    color: #555555;
+    line-height: 10px;
+    } 
+
+   
+  
+        
+  
+    .FourthTag a{
+    text-align: center;
+    position: absolute;
+    width: 92%;
+    height: 6%;
+    color: #000000;
+    background: #ffffff;
+    font-family: Poppins, Helvetica, Tahoma, Arial, serif;
+    font-weight: 400;
+    font-size: 18px;
+    top: 377px; left: 12px;
+    padding-top: 5px;
+    transition: .7s;
+    }
+
+
+
+
+        
+
+    .FourthTag a:hover{
+    color: #ffffff;
+    background: #000000;
+    }
+
+
+
+
+
+    .FourthTextCombineItem{
+    background:#ffffff; 
+    padding-top: 15px;
+    padding-bottom: 25px;
+    }
+ 
+ 
+      
+ 
+ 
+      
+    .FourthTextCombineItem p{
+    padding-top: 5px;
+    margin-left: 80px; 
+    font-family: Poppins, Helvetica, Tahoma, Arial, serif;
+    font-size: 13px;
+    font-weight: 400;
+    color: #000000;
+    line-height: 15px;
+    }
+ 
+ 
+ 
+      
+
+    .FourthTextCombineItem h3{
+    padding-top: 14px;
+    font-family: Poppins, Helvetica, Tahoma, Arial, serif;
+    font-size: 14px;
+    font-weight: 700;
+    color: #e95144;
+    line-height: 15px;
+    } 
+ 
+ 
+    
+
+
+
+    .FourthTextCombineItem h3 span{
+   padding-right: 9px;
+    margin-left: 87px; 
+    font-family: Poppins, Helvetica, Tahoma, Arial, serif;
+    font-size: 12px;
+    font-weight: 600;
+    color: #555555;
+    line-height: 10px;
+    } 
+ 
+
+
+
+
+   .FourthTextCombatItem{
+    background:#ffffff; 
+    padding-top: 15px;
+    padding-bottom: 25px;
+    }
+ 
+ 
+      
+ 
+ 
+      
+    .FourthTextCombatItem p{
+   padding-top: 5px;
+    margin-left: 66px; 
+    font-family: Poppins, Helvetica, Tahoma, Arial, serif;
+    font-size: 13px;
+    font-weight: 400;
+    color: #000000;
+    line-height: 15px;
+   }
+ 
+ 
+ 
+      
+
+
+    .FourthTextCombatItem h3{
+    padding-top: 14px;
+    font-family: Poppins, Helvetica, Tahoma, Arial, serif;
+    font-size: 14px;
+    font-weight: 700;
+    color: #e95144;
+    line-height: 15px;
+    } 
+ 
+ 
+    
+
+
+
+    .FourthTextCombatItem h3 span{
+    padding-right: 9px;
+    margin-left: 87px; 
+    font-family: Poppins, Helvetica, Tahoma, Arial, serif;
+    font-size: 12px;
+    font-weight: 600;
+    color: #555555;
+    line-height: 10px;
+    } 
+ 
+
+
+
+
+
+
+    .FourthTextComboItem{
+    background:#ffffff; 
+    padding-top: 15px;
+    padding-bottom: 25px;
+    }
+ 
+ 
+      
+ 
+ 
+      
+    .FourthTextComboItem p{
+    padding-top: 5px;
+    margin-left: 48px; 
+    font-family: Poppins, Helvetica, Tahoma, Arial, serif;
+    font-size: 13px;
+    font-weight: 400;
+    color: #000000;
+    line-height: 15px;
+    }
+ 
+ 
+ 
+      
+
+
+   .FourthTextComboItem h3{
+    padding-top: 14px;
+    font-family: Poppins, Helvetica, Tahoma, Arial, serif;
+    font-size: 14px;
+    font-weight: 700;
+    color: #e95144;
+    line-height: 15px;
+    } 
+ 
+ 
+    
+
+
+
+    .FourthTextComboItem h3 span{
+    padding-right: 9px;
+    margin-left: 87px; 
+    font-family: Poppins, Helvetica, Tahoma, Arial, serif;
+    font-size: 12px;
+    font-weight: 600;
+    color: #555555;
+    line-height: 10px;
+    } 
+
+
+
+
+
+
+
+
+    .FourthUnderTag a{
+    position: absolute;
+    height: 4%;
+    width: 11%;
+    background: #000000;
+    color: #ffffff;
+    font-family: Poppins, Helvetica, Tahoma, Arial, serif;
+    font-weight: 400;
+    text-align: center;
+    bottom: -2290px; left: 848px;
+    padding-top: 12px;
+    transition: .6s;
+    }
+
+
+
+
+   .FourthUnderTag a:hover{
+    background: #1a1a1a;
+    }
+
+
+
+
+
+
+
+   /* Fourth Header Part End */ 
+
+
+
+
+
+
+
+
+
+
+
+   /* Fifth Header Part Start */
+
+
+
+    #FifthPart{
+    padding-top: 30px;
+    padding-bottom: 140px;
+    background: #ffffff;
+   }
+
+
+   
+
+
+    .FifthText{
+    text-align: center;
+    }
+
+
+
+
+
+    .FifthText h3{
+    font-family: Poppins, Helvetica, Tahoma, Arial, serif;
+    font-size: 27px;
+    color: #000000;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    font-weight: 400;
+    }
+
+
+
+
+
+
+
+   .FifthText p{
+    font-family: Poppins, Helvetica, Tahoma, Arial, serif;
+    font-size: 13px;
+    color: #555555;
+    }
+
+
+
+
+
+
+
+    .FifthPartImg{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 60px;
+    
+    }
+
+
+
+
+
+
+
+    .FifthImg{
+    width: 23%;
+    position: relative;
+    -webkit-box-shadow: 0px 0px 7px 0px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 0px 0px 7px 0px rgba(0, 0, 0, 0.75);
+    box-shadow: 0px 0px 7px 0px rgba(0, 0, 0, 0.75);
+   }
+
+
+
+
+
+
+
+
+    .FifthImg img{
+    width: 100%;
+    display: block; 
+    }
+
+
+
+
+
+
+    .FifthBadge{
+    position: absolute;
+    height: 28px;
+    width: 47px;
+    background: #195786;
+    top: 8px;
+    left: 7px;
+    }
+
+
+      
+
+
+
+
+    .BadgeItem {
+    position: absolute;
+    color: #ffff;
+    top: 43%; left: 52%;
+    transform: translate(-50%, -50%);
+    font-size: 20px;
+    font-weight: 600;
+    }
+
+
+
+
+
+
+
+       
+    .FifthItemBadge{
+    position: absolute;
+    height: 28px;
+    width: 47px;
+    background: #01bad4;
+    top: 43px;
+    left: 7px;
+    }
+
+
+      
+
+
+
+
+
+
+    .BadgeNewItem {
+    position: absolute;
+    color: #ffff;
+    top: 48%; left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 20px;
+    font-weight: 600;
+    }
+
+
+
+
+
+
+
+    .FifthIcon{
+    position: absolute;
+    height: 40px;
+    width: 38px;
+    background: #ffffff;
+    top: 8px;
+    right: 12px;
+    -webkit-box-shadow: 0px 0px 7px 0px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 0px 0px 7px 0px rgba(0, 0, 0, 0.75);
+    box-shadow: 0px 0px 7px 0px rgba(0, 0, 0, 0.75);
+    }
+
+
+      
+
+
+
+
+
+    .FifthIcon i{
+    position: absolute;
+    color: #000000;
+    top: 46%; left: 52%;
+    transform: translate(-50%, -50%);
+    font-size: 16px;
+    transition: .8s;
+    } 
+
+
+      
+
+
+
+
+    .FifthIcon i:hover {
+    color:#ffffff ;
+    background: #000000;
+    }     
+       
+
+
+     
+            
+
+
+
+
+
+    .FifthTextItem{
+    background:#ffffff; 
+    padding-top: 15px;
+    padding-bottom: 25px;
+    }
+
+
+    
+
+
+    
+
+
+    .FifthTextItem p{
+    padding-top: 5px;
+    margin-left: 75px; 
+    font-family: Poppins, Helvetica, Tahoma, Arial, serif;
+    font-size: 13px;
+    font-weight: 400;
+    color: #000000;
+    line-height: 15px;
+    }
+
+
+
+    
+
+
+
+
+    .FifthTextItem h3{
+    padding-top: 14px;
+    font-family: Poppins, Helvetica, Tahoma, Arial, serif;
+    font-size: 14px;
+    font-weight: 700;
+    color: #e95144;
+    line-height: 15px;
+    } 
+
+
+  
+
+
+
+
+
+    .FifthTextItem h3 span{
+    padding-right: 9px;
+    margin-left: 87px; 
+    font-family: Poppins, Helvetica, Tahoma, Arial, serif;
+    font-size: 12px;
+    font-weight: 600;
+    color: #555555;
+    line-height: 10px;
+    } 
+
+
+
+
+
+
+
+
+
+    .FifthTextNewItem{
+    background:#ffffff; 
+    padding-top: 15px;
+    padding-bottom: 25px;
+    }
+
+
+    
+
+
+    
+
+
+    .FifthTextNewItem p{
+    padding-top: 5px;
+    margin-left: 89px; 
+    font-family: Poppins, Helvetica, Tahoma, Arial, serif;
+    font-size: 13px;
+    font-weight: 400;
+    color: #000000;
+    line-height: 15px;
+    }
+
+
+
+    
+
+
+
+
+    .FifthTextNewItem h3{
+    padding-top: 14px;
+    font-family: Poppins, Helvetica, Tahoma, Arial, serif;
+    font-size: 14px;
+    font-weight: 700;
+    color: #e95144;
+    line-height: 15px;
+    } 
+
+
+  
+
+
+
+
+
+
+    .FifthTextNewItem h3 span{
+    padding-right: 9px;
+    margin-left: 87px; 
+    font-family: Poppins, Helvetica, Tahoma, Arial, serif;
+    font-size: 12px;
+    font-weight: 600;
+    color: #555555;
+    line-height: 10px;
+    } 
+
+
+
+    
+      
+
+
+
+
+    .FifthTag a{
+    text-align: center;
+    position: absolute;
+     width: 92%;
+    height: 6%;
+    color: #000000;
+    background: #ffffff;
+    font-family: Poppins, Helvetica, Tahoma, Arial, serif;
+    font-weight: 400;
+    font-size: 18px;
+    top: 377px; left: 12px;
+    padding-top: 5px;
+    transition: .7s;
+    }
+
+
+
+
+      
+
+    .FifthTag a:hover{
+    color: #ffffff;
+    background: #000000;
+    }
+
+
+
+
+
+
+
+
+
+    .FifthTextCombineItem{
+    background:#ffffff; 
+    padding-top: 15px;
+    padding-bottom: 25px;
+    }
+
+
+    
+
+  
+
+
+    
+    .FifthTextCombineItem p{
+    padding-top: 5px;
+    margin-left: 68px; 
+    font-family: Poppins, Helvetica, Tahoma, Arial, serif;
+    font-size: 13px;
+    font-weight: 400;
+    color: #000000;
+    line-height: 15px;
+    }
+
+
+
+
+
+
+
+    
+    .FifthTextCombineItem h3{
+    padding-top: 14px;
+    font-family: Poppins, Helvetica, Tahoma, Arial, serif;
+    font-size: 14px;
+    font-weight: 700;
+    color: #e95144;
+    line-height: 15px;
+    } 
+
+
+  
+
+
+
+
+
+
+
+    .FifthTextCombineItem h3 span{
+    padding-right: 9px;
+    margin-left: 87px; 
+    font-family: Poppins, Helvetica, Tahoma, Arial, serif;
+    font-size: 12px;
+    font-weight: 600;
+    color: #555555;
+    line-height: 10px;
+    } 
+
+
+            
+
+   
+
+
+
+
+
+    .FifthTextComboItem{
+    background:#ffffff; 
+    padding-top: 15px;
+    padding-bottom: 25px;
+    }
+
+
+    
+
+
+
+
+
+
+    
+    .FifthTextComboItem p{
+    padding-top: 5px;
+    margin-left: 68px; 
+    font-family: Poppins, Helvetica, Tahoma, Arial, serif;
+    font-size: 13px;
+    font-weight: 400;
+    color: #000000;
+    line-height: 15px;
+    }
+
+
+
+   
+    
+
+    .FifthTextComboItem h3{
+    padding-top: 14px;
+    font-family: Poppins, Helvetica, Tahoma, Arial, serif;
+    font-size: 14px;
+    font-weight: 700;
+    color: #e95144;
+    line-height: 15px;
+    } 
+
+
+
+
+
+
+  
+    .FifthTextComboItem h3 span{
+    padding-right: 9px;
+    margin-left: 87px; 
+    font-family: Poppins, Helvetica, Tahoma, Arial, serif;
+    font-size: 12px;
+    font-weight: 600;
+    color: #555555;
+    line-height: 10px;
+    } 
+
+
+
+
+
+    .FifthTextAverageItem{
+      background:#ffffff; 
+      padding-top: 12px;
+      padding-bottom: 25px;
+      }
+  
+
+
+     .FifthTextAverageItem p{
+      padding-top: 21px;
+      margin-left: 57px; 
+      font-family: Poppins, Helvetica, Tahoma, Arial, serif;
+      font-size: 13px;
+      font-weight: 400;
+      color: #000000;
+      line-height: 15px;
+      }
+  
+  
+  
+      
+  
+  
+  
+  
+      .FifthTextAverageItem h3{
+      padding-top: 14px;
+      font-family: Poppins, Helvetica, Tahoma, Arial, serif;
+      font-size: 14px;
+      font-weight: 700;
+      color: #e95144;
+      line-height: 15px;
+      } 
+  
+  
+    
+  
+  
+  
+  
+  
+      .FifthTextAverageItem h3 span{
+      padding-right: 9px;
+      margin-left: 86px; 
+      font-family: Poppins, Helvetica, Tahoma, Arial, serif;
+      font-size: 12px;
+      font-weight: 600;
+      color: #555555;
+      line-height: 10px;
+      } 
+
+
+
+      .FifthTextJustItem{
+        background:#ffffff; 
+        padding-top: 12px;
+        padding-bottom: 25px;
+        }
+    
+
+
+
+      
+     .FifthTextJustItem p{
+      padding-top: 20px;
+      margin-left: 36px; 
+      font-family: Poppins, Helvetica, Tahoma, Arial, serif;
+      font-size: 13px;
+      font-weight: 400;
+      color: #000000;
+      line-height: 15px;
+      }
+  
+  
+  
+      
+  
+  
+  
+  
+      .FifthTextJustItem h3{
+      padding-top: 15px;
+      font-family: Poppins, Helvetica, Tahoma, Arial, serif;
+      font-size: 14px;
+      font-weight: 700;
+      color: #e95144;
+      line-height: 15px;
+      } 
+  
+  
+    
+  
+  
+  
+  
+  
+      .FifthTextJustItem h3 span{
+      padding-right: 9px;
+      margin-left: 97px; 
+      font-family: Poppins, Helvetica, Tahoma, Arial, serif;
+      font-size: 12px;
+      font-weight: 600;
+      color: #555555;
+      line-height: 10px;
+      } 
+
+
+
+      .FifthTextCantonItem{
+        background:#ffffff; 
+        padding-top: 15px;
+        padding-bottom: 25px;
+        }
+    
+
+
+     
+      .FifthTextCantonItem p{
+        margin-top: 18px;
+        margin-left: 57px; 
+        font-family: Poppins, Helvetica, Tahoma, Arial, serif;
+        font-size: 13px;
+        font-weight: 400;
+        color: #000000;
+        line-height: 15px;
+        }
+    
+    
+    
+        
+    
+    
+    
+    
+        .FifthTextCantonItem h3{
+        padding-top: 14px;
+        font-family: Poppins, Helvetica, Tahoma, Arial, serif;
+        font-size: 14px;
+        font-weight: 700;
+        color: #e95144;
+        line-height: 15px;
+        } 
+    
+    
+      
+    
+    
+    
+    
+    
+        .FifthTextCantonItem h3 span{
+        padding-right: 9px;
+        margin-left: 91px; 
+        font-family: Poppins, Helvetica, Tahoma, Arial, serif;
+        font-size: 12px;
+        font-weight: 600;
+        color: #555555;
+        line-height: 10px;
+        } 
+
+
+
+
+        .FifthTextRamenItem{
+          background:#ffffff; 
+          padding-top: 15px;
+          padding-bottom: 25px;
+          }
+      
+
+ 
+       
+     .FifthTextRamenItem p{
+      padding-top: 16px;
+      margin-left: 75px; 
+      font-family: Poppins, Helvetica, Tahoma, Arial, serif;
+      font-size: 13px;
+      font-weight: 400;
+      color: #000000;
+      line-height: 15px;
+      }
+  
+  
+  
+      
+  
+  
+  
+  
+      .FifthTextRamenItem h3{
+      padding-top: 14px;
+      font-family: Poppins, Helvetica, Tahoma, Arial, serif;
+      font-size: 14px;
+      font-weight: 700;
+      color: #e95144;
+      line-height: 15px;
+      } 
+  
+  
+    
+  
+  
+  
+  
+  
+      .FifthTextRamenItem h3 span{
+      padding-right: 9px;
+      margin-left: 88px; 
+      font-family: Poppins, Helvetica, Tahoma, Arial, serif;
+      font-size: 12px;
+      font-weight: 600;
+      color: #555555;
+      line-height: 10px;
+      } 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    .FifthUnderTag a{
+    position: absolute;
+    height: 4%;
+    width: 11%;
+    background: #000000;
+    color: #ffffff;
+    font-family: Poppins, Helvetica, Tahoma, Arial, serif;
+    font-weight: 400;
+    text-align: center;
+    top: 4560px; left: 848px;
+    padding-top: 12px;
+    transition: .6s;
+   }
+
+
+
+
+
+
+
+
+    .FifthUnderTag a:hover{
+    background: #1a1a1a;
+    }
+
+
+
+
+
+
+
+    /* Fifth Header Part End  */
+
+
+
+
+
+
+
+
+
+   /* Sixth Header Part Start */
+
+
+    #SixthPart{
+    padding-top: 13px;
+    padding-bottom: 56px;
+    background: #dedede;
+    }
+
+
+
+
+   .SixthItemPart{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+    position: relative; 
+    }
+
+
+
+
+
+    .ItemDelivery{
+    display: flex;
+    margin-left: 11px;
+    }
+
+        
+
+
+        
+    .ItemDelivery a{
+    font-size: 43px;
+    color: #555555;
+    }
+
+
+
+
+
+    .ItemDeliveryPart{
+    margin-left: 12px;
+    }
+
+
+
+
+
+
+
+
+    .ItemDeliveryPart h3{
+    font-family: Poppins, Helvetica, Tahoma, Arial, serif;
+    font-weight: 400;
+    font-size: 16px;
+    color: #555555;
+    padding-bottom: 11px;
+    }
+
+
+        
+
+
+    .ItemDeliveryPart h3:hover{
+    color: #000000;
+    }
+
+
+
+
+
+
+
+    .ItemDeliveryPart p{
+    font-family: Poppins, Helvetica, Tahoma, Arial, serif;
+    font-weight: 400;
+    font-size: 14px;
+    color: #555555;
+    padding-bottom: 6px;
+    }
+
+
+
+
+
+
+           
+   .ItemMoney{
+    display: flex;
+    margin-left: -50px;
+    }
+
+        
+
+
+        
+    .ItemMoney a{
+    font-size: 50px;
+    color: #555555;
+    }
+
+
+
+
+
+    .ItemMoneyPart{
+    margin-left: 14px;
+    }
+
+
+
+
+    .ItemMoneyPart h3{
+    font-family: Poppins, Helvetica, Tahoma, Arial, serif;
+    font-weight: 400;
+    font-size: 16px;
+    color: #555555;
+    padding-bottom: 11px;
+    padding-top: 11px;
+    }
+
+
+        
+
+
+    .ItemMoneyPart h3:hover{
+    color: #000000;
+    }
+
+
+
+
+
+
+    .ItemMoneyPart p{
+    font-family: Poppins, Helvetica, Tahoma, Arial, serif;
+    font-weight: 400;
+    font-size: 14px;
+    color: #555555;
+    }
+
+
+
+
+
+
+                  
+   .ItemPaymentSecure{
+    display: flex;
+    margin-right: 372px;
+    }
+
+        
+
+
+        
+    .ItemPaymentSecure a{
+    font-size: 45px;
+    color: #555555;
+    }
+
+
+
+
+
+    .ItemSecurePart{
+    margin-left: 30px;
+    }
+
+
+
+
+    .ItemSecurePart h3{
+    font-family: Poppins, Helvetica, Tahoma, Arial, serif;
+    font-weight: 400;
+    font-size: 16px;
+    color: #555555;
+    padding-bottom: 11px;
+    padding-top: 4px;
+    }
+
+
+        
+
+
+
+
+    .ItemSecurePart h3:hover{
+    color: #000000;
+    }
+
+
+
+
+
+
+    .ItemSecurePart p{
+    font-family: Poppins, Helvetica, Tahoma, Arial, serif;
+    font-weight: 400;
+    font-size: 14px;
+    color: #555555;
+    }
+
+
+
+
+
+                   
+    .ItemPurchase{
+    display: flex;
+    margin-right: 235px;
+    }
+
+        
+
+
+
+
+           
+    .ItemPurchase{
+    position: absolute; 
+    height: 54px;
+    width: 54px;
+    background: #55555517;
+    top: 0px;
+    right: -46px;
+   }
+     
+     
+           
+    .ItemPurchase i{
+    position: absolute; 
+    color: #555555;
+    top: 50%; left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 38px;
+    }   
+     
+
+
+
+
+
+    .ItemPurchasePart{
+    margin-left: 295px;
+    }
+
+
+
+
+
+
+
+    .ItemPurchasePart h3{
+    font-family: Poppins, Helvetica, Tahoma, Arial, serif;
+    font-weight: 400;
+    font-size: 16px;
+    color: #555555;
+    padding-bottom: 11px;
+    padding-top: 4px;
+    margin: 0px -219px;
+    }
+
+
+        
+
+
+    .ItemPurchasePart h3:hover{
+    color: #000000;
+    }
+
+
+
+
+
+
+    .ItemPurchasePart p{
+    font-family: Poppins, Helvetica, Tahoma, Arial, serif;
+    font-weight: 400;
+    font-size: 14px;
+    color: #555555;
+    margin-left: -218px;
+    padding-bottom: 5px;
+    } 
+
+
+
+ 
+
+
+
+   /* Sixth Header Part End */
+
+
+
+
+
+
+
+
+
+
+
+   /* Seven Header Part Start */
+
+
+
+
+
+
+
+
+    #SevenPart{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background: #f9f9f9;
+    }
+
+
+
+
+
+
+    .SevenItemPart{
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    }
+
+
+
+
+
+
+    .SevenText p{
+    font-family: Poppins, Helvetica, Tahoma, Arial, serif;
+    color: #000000;
+    font-size: 13px;
+    font-weight: 400;
+    padding-top: 1px;
+    }
+
+
+
+
+
+    .SevenText h3{
+    font-family: Poppins, Helvetica, Tahoma, Arial, serif;
+    color: #000000;
+    font-size: 25px;
+    padding-top: 12px;
+    font-weight: 400;
+    margin-left: -4px;
+    }
+
+
+
+
+
+
+   .TextRecommendation{
+    position: absolute; 
+    height: 46px;
+    width: 460px;
+    background: #ffffff;
+    top: 0px;
+    right: 676px;
+    -webkit-box-shadow: 0px 0px 7px 0px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 0px 0px 7px 0px rgba(0, 0, 0, 0.75);
+    box-shadow: 0px 0px 7px 0px rgba(0, 0, 0, 0.75);
+   }
+ 
+ 
+       
+   .TextRecommendation h3{
+    position: absolute; 
+    color: #424242;
+    top: 50%; left: 15%;
+    transform: translate(-50%, -50%);
+    font-size: 16px;
+    font-family: Poppins, Helvetica, Tahoma, Arial, serif;
+    font-weight: 300;
+   }   
+        
+
+
+
+
+         
+    .NotSubscribe{
+    position: absolute; 
+    height: 50px;
+    width: 120px;
+    background: black;
+    top: -2px;
+    right: 558px;
+   }
+ 
+ 
+       
+
+
+
+    .NotSubscribe a{
+    position: absolute; 
+    color: white;
+    top: 50%; left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 18px;
+    font-family: Poppins, Helvetica, Tahoma, Arial, serif;
+    font-weight: 300;
+    }   
+
+         
+
+
+    
+   .NotSubscribe a:hover {
+    background: #444444;
+    } 
+
+
+
+
+
+
+    .SocialIcons{
+    margin-right: -92px;
+    }
+
+
+
+
+
+
+    .SocialIcons i{
+    color: #111111;
+    font-size: 20px;
+    padding-top: 20px;
+    margin: 0px 10px;
+   }
+
+
+  
+
+
+
+   .SocialIcons i:hover{
+    color: #424242;
+   }
+
+
+
+
+
+
+    /* Seven Header Part End */
+
+
+
+
+
+
+
+   /* Eight Header Part Start */
+
+
+
+
+
+
+    #EigthPart{
+    padding-top: 40px;
+    padding-bottom: 60px;
+    background: white;
+    }
+
+
+
+
+
+
+
+    .EightPartItem{
+    display: flex;
+    justify-content: space-between;
+    }
+
+
+
+
+
+
+
+
+    .PartOne p{
+    font-family: Poppins, Helvetica, Tahoma, Arial, serif;
+    color: #000000;
+    font-size: 18px;
+    font-weight: 600;
+    padding-bottom: 28px;
+    }
+
+
+
+          
+
+
+
+
+   .PartTwo{
+    margin-left: 7px;
+    } 
+
+
+
+
+
+
+
+
+
+       
+    .PartOne h2{
+    font-family: Poppins, Helvetica, Tahoma, Arial, serif;
+    color: black;
+    font-size: 16px;
+    font-weight: 600;
+    padding-bottom: 23px;
+    transition: .6s;
+    }
+
+
+
+
+
+
+
+
+    .PartOne h2:hover{
+    color: #333333;
+    }
+
+
+
+
+
+
+
+
+    .PartTwo h2{
+    font-family: Poppins, Helvetica, Tahoma, Arial, serif;
+    color: #000000;
+    font-size: 18px;
+    font-weight: 600;
+    padding-bottom: 28px;
+    }
+
+    
+
+
+
+
+
+
+    .PartTwo h1{
+    font-family: Poppins, Helvetica, Tahoma, Arial, serif;
+    color: black;
+    font-size: 16px;
+    font-weight: 600;
+    transition: .6s;
+   }
+
+
+
+
+
+
+
+   .PartTwo h1:hover{
+    color: #333333;
+   }
+
+
+
+
+
+
+       
+    .PartThree p{
+    font-family: Poppins, Helvetica, Tahoma, Arial, serif;
+    color: #000000;
+    font-size: 18px;
+    font-weight: 600;
+    padding-bottom: 29px;
+    }
+  
+  
+  
+
+
+
+
+
+  
+    .PartThree h2{
+    font-family: Poppins, Helvetica, Tahoma, Arial, serif;
+    color: #000000;
+    font-size: 16px;
+    font-weight: 600;
+    padding-bottom: 23px;
+    transition: .6s;
+    }
+
+
+
+
+
+
+    .PartThree h2:hover{
+    color: #333333;
+    }
+
+
+
+
+
+
+    .PartFour{
+    margin-left: 18px;
+   }
+
+
+
+
+
+
+
+   .LineOne{
+   display: flex;
+   }
+
+
+
+
+
+
+   .LineOne a{
+    font-size: 53px;
+    color: #808080;
+    padding-top: 2.5px;
+    }
+
+
+
+
+
+
+
+
+    .OneAnother{
+    margin-left: 27px;
+    }
+
+
+
+
+
+
+
+    .OneAnother h3{
+    font-family: Poppins, Helvetica, Tahoma, Arial, serif;
+    font-weight: 400;
+    font-size: 16px;
+    color: #333333;
+    padding-top: 13px;
+    padding-bottom: 1px;
+    }
+
+
+        
+
+
+
+
+
+    .OneAnother p{
+    font-family: Poppins, Helvetica, Tahoma, Arial, serif;
+    font-weight: 600;
+    font-size: 14px;
+    color: #555555;
+    padding-top: 2px;
+    transition: .6s;
+    }
+
+
+
+
+
+
+
+
+
+
+    .OneAnother p:hover{
+    color: #000000;
+    }
+
+
+
+
+
+
+
+
+
+
+    .LineTwo{
+    display: flex;
+    }
+
+
+
+
+
+        
+
+
+        
+    .LineTwo a{
+    font-size: 53px;
+    color: #808080;
+    padding-top: 24px;
+    margin-left: 6px;
+    }
+
+
+
+
+
+
+
+
+
+    .TwoAnother{
+    margin-left: 33px;
+    padding-top: 19px;
+    }
+
+
+
+
+
+
+
+
+    .TwoAnother h3{
+    font-family: Poppins, Helvetica, Tahoma, Arial, serif;
+    font-weight: 600;
+    font-size: 16px;
+    color: #555555;
+    padding-top: 13px;
+    padding-bottom: 0px;
+    transition: .6s;
+    }
+
+
+
+
+
+     
+    .TwoAnother h3:hover{
+    color: #000000;
+    }
+
+
+
+
+
+
+
+    .TwoAnother p{
+    font-family: Poppins, Helvetica, Tahoma, Arial, serif;
+    font-weight: 400;
+    font-size: 16px;
+    color: #333333;
+    margin: -13px 169px;
+   }
+
+
+
+
+
+                   
+
+
+    .TwoAnother h2{
+    font-family: Poppins, Helvetica, Tahoma, Arial, serif;
+    font-weight: 400;
+    font-size: 16px;
+    color: #333333;
+    padding-top: 25px;
+    margin-left: 2px;
+    }
+
+
+
+              
+
+
+    
+
+    .PartFive{
+    margin: 0px -43px;
+    }
+
+
+
+
+
+
+
+
+
+    .PartFive h3{
+    font-family: Poppins, Helvetica, Tahoma, Arial, serif;
+    color: #000000;
+    font-size: 15px;
+    padding-bottom: 36px;
+    margin-left: -104px;
+    font-weight: 400;
+    }
+
+
+
+
+
+
+
+
+    .PartFive p{
+    font-family: Poppins, Helvetica, Tahoma, Arial, serif;
+    color: #333333;
+    font-size: 15px;
+    font-weight: 400;
+    margin: 0px -102px;
+    padding-bottom: 13px;
+    }
+            
+
+
+            
+
+
+
+    .PartFive h4{
+    font-family: Poppins, Helvetica, Tahoma, Arial, serif;
+    color: #333333;
+    font-size: 15px;
+    font-weight: 400;
+    margin: 0px -102px;
+    padding-top: 27px;
+    padding-bottom: 44px;
+    }
+
+
+
+
+
+
+
+    .PartFive span{
+    font-family: Poppins, Helvetica, Tahoma, Arial, serif;
+    color: black;
+    font-size: 15px;
+    font-weight: 600;
+    padding-top: 27px;
+    padding-bottom: 44px;
+    transition: .6s;
+    }
+
+
+
+
+
+
+                     
+
+
+    .PartFive span:hover{
+    color: #333333;
+    }
+
+
+
+
+
+
+
+
+
+
+
+    .PartFive h5{
+    font-family: Poppins, Helvetica, Tahoma, Arial, serif;
+    color: #333333;
+    font-size: 15px;
+    font-weight: 400;
+    margin: 0px -102px;
+    padding-bottom: 43px;
+    }
+
+
+
+
+
+
+
+    .EightNewPart p{
+    text-align: center;
+    color: #555555;
+    font-size: 14px;
+    font-family: Poppins, Helvetica, Tahoma, Arial, serif;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    }
+
+
+
+
+
+    
+    .EightNewPart span{
+    text-align: center;
+    color: #000000;
+    font-size: 14px;
+    font-family: Poppins, Helvetica, Tahoma, Arial, serif;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    transition: .6s;
+    font-weight: 400;
+    }
+
+
+
+
+
+    .EightNewPart span:hover{
+    color: #333333;
+    }
+
+
+
+
+
+
+
+    .EightNewPart{
+    position: relative;
+    }       
+
+
+
+
+
+
+
+
+    .EightNewPart::before{
+    position: absolute;
+    height: 1px;
+    width: 1460px;
+    background: #424242;
+    top: -19px; left: -5px;
+    content: "";
+    }
+
+
+
+
+
+
+
+    .EightNewPart img{
+    margin: 0px 333px;
+    }
+
+
+
+
+
+
+
+
+    /* Eight Header Part End */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   /* Header Part Start */
+  /* Header Part End */
+   /* Header Part Start */
+  /* Header Part End */
+   /* Header Part Start */
+  /* Header Part End */
